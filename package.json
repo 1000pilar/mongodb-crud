@@ -1,0 +1,24 @@
+{
+  "name": "mongodb-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1000pilar/mongodb-crud.git"
+  },
+  "author": "nugraha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1000pilar/mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/1000pilar/mongodb-crud#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
